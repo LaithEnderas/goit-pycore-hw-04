@@ -1,0 +1,7 @@
+John Doe,1560
+Karl Buduar,1580
+Jay Krakovic,2140
+Ivan Mighty,1970
+Monica Lineker,2340
+Sara O'Conneli,3090
+Sam Broker,2160
